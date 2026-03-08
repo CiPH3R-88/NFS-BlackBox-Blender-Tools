@@ -196,13 +196,10 @@ The addon will automatically:
 
 Different NFS games use different vinyl layouts.
 
-Legacy layout:
+Layout:
 
 UG
 MW
-
-Modern layout:
-
 CB
 PS
 UC
