@@ -92,15 +92,21 @@ KIT00_BODY_A
 Example result:
 
 KIT00_SPOILER_A
+
 STYLE01_SPOILER_A
+
 STYLE02_SPOILER_A
+
 STYLE03_SPOILER_A
 
 Special handling exists for BODY kits:
 
 KIT00_BODY_A
+
 KIT01_BODY_A
+
 KIT02_BODY_A
+
 KIT03_BODY_A
 
 This ensures compatibility with NFS modding pipelines.
