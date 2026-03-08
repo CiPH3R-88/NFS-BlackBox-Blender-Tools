@@ -177,6 +177,7 @@ You will find:
 -   NFS BB Bulk Part Naming
 
 ------------------------------------------------------------------------
+# Note: The car model must always face the +X axis. Ensure all car parts are properly assembled and the object origin is set to the 3D Cursor.
 
 # Vinyl Mapping Workflow
 
