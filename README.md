@@ -225,11 +225,6 @@ Blender version:
 
 Blender 3.0 or newer
 
-Tested with:
-
-Blender 3.x  
-Blender 4.x
-
 ---
 
 # Author
