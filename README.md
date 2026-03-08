@@ -198,12 +198,7 @@ Different NFS games use different vinyl layouts.
 
 Layout:
 
-UG
-MW
-CB
-PS
-UC
-WORLD
+UG1/2, MW, CB, PS, UC, WORLD
 
 Each tab loads the correct default zone configuration.
 
